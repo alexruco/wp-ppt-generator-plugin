@@ -1,0 +1,23 @@
+{
+  "title": "My Generated Deck",
+  "slides": [
+    {
+      "title": "Welcome",
+      "text": "This deck was generated from JSON.",
+      "bullets": [
+        "Fully automatic",
+        "Powered by PHP",
+        "JSON → PowerPoint"
+      ]
+    },
+    {
+      "title": "Second Slide",
+      "text": "Here is an image from JSON:",
+      "image": "example.jpg"
+    },
+    {
+      "title": "Final Slide",
+      "text": "You can add as many slides as you want."
+    }
+  ]
+}
